@@ -1,4 +1,4 @@
-who = ["World", "Python", "Reviewer", "Student"]
+who = ["World", "Python", "Reviewer", "Student", "Everyone"]
 
 for name in who:
     print(f"Hello, {name}!")
